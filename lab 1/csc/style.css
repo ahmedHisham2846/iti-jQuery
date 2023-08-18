@@ -1,0 +1,10 @@
+.small-img {
+  width: 200px;
+}
+
+.big-img {
+  position: absolute;
+  width: 500px;
+  padding: 0;
+  margin: 0;
+}
